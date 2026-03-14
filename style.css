@@ -348,7 +348,6 @@ header .nav-links {
 
 .portfolio-card img {
     max-width: 100%;
-    /* height: 180px; */
     object-fit: contain;
 }
 
@@ -505,7 +504,6 @@ header .nav-links {
 }
 .contact-img img{
     width: 100%;
-    display: block;
     max-width: 450px;
     border-radius: 10px;
 }
